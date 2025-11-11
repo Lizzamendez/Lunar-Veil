@@ -1,6 +1,6 @@
 # 🌙 Lunar Veil — O Feminino que Habita a Sombra Suave
 <p align="center">
-  <img src="./images/lunar_veil_cover.png" width="400"/>
+  <img src="./lunar_veil_cover.png" width="400"/>
 </p>
  Este projeto é uma contemplação visual sobre o feminino que habita a sombra suave.
  Não como ausência de luz, mas como um espaço íntimo de retorno a si.
