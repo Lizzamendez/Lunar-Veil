@@ -35,11 +35,12 @@ O projeto final apresenta uma sequência visual **contemplativa e íntima**, ond
 
 ## 📂 Estrutura do Repositório
 /
-├── images/ # Imagens individuais utilizadas no projeto
 
-├── lunar-veil.pdf # Catálogo visual completo
+  ├── images/ # Imagens individuais utilizadas no projeto
 
-└── README.md # Documentação do projeto
+  ├── lunar-veil.pdf # Catálogo visual completo
+
+  └── README.md # Documentação do projeto
 
 
 ## 💭 Reflexão
