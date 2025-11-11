@@ -16,7 +16,6 @@ A narrativa é construída a partir de imagens e breves versos contemplativos, c
 - **Whisk — Google Labs (IA Generativa)**
 - **Canva / PDF** para edição e montagem
 - **GitHub** para documentação e portfólio
-- **ChatGPT** para prompt
 
 ## 🧐 Processo de Criação
 1. Definição da estética desejada: sombras suaves, atmosfera lunar e gestos silenciosos.
@@ -41,6 +40,14 @@ O projeto final apresenta uma sequência visual **contemplativa e íntima**, ond
   ├── lunar-veil.pdf # Catálogo visual completo
 
   └── README.md # Documentação do projeto
+
+  ## 🙏 Créditos
+
+Este projeto foi concebido, selecionado e finalizado por mim.  
+A direção estética, curadoria emocional e decisões de composição são de minha autoria.
+
+A construção conceitual, desenvolvimento dos prompts e elaboração da narrativa poética foram realizadas com apoio de **ChatGPT (GPT-5)** como ferramenta de **assistência criativa**.
+
 
 
 ## 💭 Reflexão
