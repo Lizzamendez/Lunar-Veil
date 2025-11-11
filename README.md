@@ -16,7 +16,7 @@ A narrativa é construída a partir de imagens e breves versos contemplativos, c
 - **Whisk — Google Labs (IA Generativa)**
 - **Canva / PDF** para edição e montagem
 - **GitHub** para documentação e portfólio
-- - **ChatGPT** para prompt
+- **ChatGPT** para prompt
 
 ## 🧐 Processo de Criação
 1. Definição da estética desejada: sombras suaves, atmosfera lunar e gestos silenciosos.
