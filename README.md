@@ -16,6 +16,7 @@ A narrativa é construída a partir de imagens e breves versos contemplativos, c
 - **Whisk — Google Labs (IA Generativa)**
 - **Canva / PDF** para edição e montagem
 - **GitHub** para documentação e portfólio
+- - **ChatGPT** para prompt
 
 ## 🧐 Processo de Criação
 1. Definição da estética desejada: sombras suaves, atmosfera lunar e gestos silenciosos.
@@ -35,7 +36,9 @@ O projeto final apresenta uma sequência visual **contemplativa e íntima**, ond
 ## 📂 Estrutura do Repositório
 /
 ├── images/ # Imagens individuais utilizadas no projeto
+
 ├── lunar-veil.pdf # Catálogo visual completo
+
 └── README.md # Documentação do projeto
 
 
@@ -46,4 +49,5 @@ A força deste projeto está no **silêncio entre as imagens** — e na decisão
 ---
 
 **Projeto desenvolvido no contexto do Lab DIO — Natty or Not**  https://github.com/digitalinnovationone/lab-natty-or-not
+
 Use a hashtag **#LabDIONattyOrNot** se compartilhar ✨
