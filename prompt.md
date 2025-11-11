@@ -34,7 +34,7 @@ flowing dark hair in gentle motion, dreamy haze, moonlit cheeks
    
 cool silver tones, frosted lash effect, quiet inner presence
 
-6) *A Voz Que Não Se Ouve
+6) *A Voz Que Não Se Ouve*
    
 eyes closed, hands gently at collarbone, inner soft halo glow
 
